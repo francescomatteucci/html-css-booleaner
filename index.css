@@ -1,0 +1,19 @@
+.logo{
+    background-image: url('./img/pattern.png');
+    background-repeat: repeat-x;
+    background-color: rgb(14, 122, 246);
+    background-size: contain;
+    background-size: 20%;
+    height: 80px;
+}
+#logo{
+    width:150px;
+    margin:40px;
+    margin-left:100px;  
+}
+body{
+    margin:0px;
+}
+main{
+    margin-left:100px;
+}
