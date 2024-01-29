@@ -4,7 +4,7 @@
     background-color: rgb(14, 122, 246);
     background-size: contain;
     background-size: 20%;
-    height: 80px;
+    height: 100px;
 }
 #logo{
     width:150px;
@@ -14,6 +14,89 @@
 body{
     margin:0px;
 }
+section{
+    margin-left:100px;
+
+}
+#primoh1{
+    margin-bottom:0px;
+}
+#secondoh1{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+#primofooter{
+    color:gray;
+}
+#terzofooter{
+    color:gray;
+    font-size:10px;
+    margin-top:0px;
+    padding-bottom:15px;
+}
+#secondofooter{
+    color:rgb(9, 129, 228);
+}
+footer{
+    margin-left:100px;
+    
+}
+.quartofooter{
+    font-size: 12px;
+}
+.quartofooter1{
+    font-size:12px;
+    padding-bottom: 10px;
+}
 main{
     margin-left:100px;
+    margin-right:300px;
+}
+ul{
+    padding-bottom:10px;
+}
+table{
+  
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+#primoparagrafo{
+ margin-top: 10px;
+}
+.paragrafoevidenziato{
+    background-color: yellow;
+    margin:0px;
+}
+.td1{
+    font-style:bold;
+    color:white;
+    background-color:rgb(41, 92, 222);
+    margin-right:20px;
+    text-align: left;
+    white-space: nowrap;  
+}
+.td2 {
+    background-color: cyan;
+}
+.td1,
+.td2,
+.td3,
+.td4 {
+    padding-right: 80px;
+}
+.td4{
+    background-color: cyan;
+    border-bottom: 20px;
+}
+aside span{
+    color: gray;
+    display:block;
+}
+aside{
+    padding-top: 30px;
+    margin-left:100px;
+}
+#monitor{
+    padding-top: 5px;
+    margin-bottom: 20px;
 }
